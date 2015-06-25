@@ -1,0 +1,8 @@
+ofxCUPS
+ofxThreadedImageLoader
+ofxSimpleTimer
+ofxQRCodeGenerator
+ofxFontStash
+ofxSQLiteCpp
+ofxUnicode
+ofxJSON
